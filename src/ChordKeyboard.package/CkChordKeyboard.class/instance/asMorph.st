@@ -1,4 +1,4 @@
 converting
 asMorph
 
-	^ CkChordKeyboardUI new
+	^ CkChordKeyboard uniqueInstance asMagritteMorph morph

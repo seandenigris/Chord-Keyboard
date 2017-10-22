@@ -1,4 +1,4 @@
 testing
 hasRightHandLayout
 
-	^ true
+	^ hasRightHandLayout ifNil: [ hasRightHandLayout := true ]

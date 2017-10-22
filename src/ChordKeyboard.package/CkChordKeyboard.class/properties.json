@@ -1,5 +1,5 @@
 {
-	"commentStamp" : "SeanDeNigris 3/6/2015 11:08",
+	"commentStamp" : "SeanDeNigris 4/1/2015 09:14",
 	"super" : "Object",
 	"category" : "ChordKeyboard-Core",
 	"classinstvars" : [
@@ -11,7 +11,8 @@
 		"isEnabled",
 		"keys",
 		"hardwareKeysPressed",
-		"specialValueMap"
+		"specialValueMap",
+		"hasRightHandLayout"
 	],
 	"name" : "CkChordKeyboard",
 	"type" : "normal"

@@ -1,6 +1,6 @@
 converting
 asMorphOpen
 
-	CkChordKeyboard uniqueInstance asMagritteMorph morph
+	CkChordKeyboard uniqueInstance asMorph
 		extent: 270@400;
 		openInWindow
