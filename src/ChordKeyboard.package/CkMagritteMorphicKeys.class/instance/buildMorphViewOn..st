@@ -6,4 +6,4 @@ buildMorphViewOn: aMorph
 		changeTableLayout;
 		listDirection: #leftToRight;
 		cellInset: 5.
-	self value do: [ :key | aMorph addMorphBack: key asMorph ].
+	self value do: [ :key | aMorph addMorph: key asMorph ].

@@ -34,10 +34,11 @@
 		"enable" : "SeanDeNigris 3/2/2015 15:13"
 	},
 	"class" : {
+		"asMorphOpen" : "SeanDeNigris 3/27/2015 13:44",
 		"leftHandMap" : "SeanDeNigris 3/15/2015 01:20",
 		"reset" : "SeanDeNigris 3/6/2015 09:20",
-		"uniqueInstance" : "SeanDeNigris 3/2/2015 15:09",
 		"rightHandMap" : "SeanDeNigris 3/15/2015 01:20",
+		"uniqueInstance" : "SeanDeNigris 3/2/2015 15:09",
 		"handleEvent:" : "SeanDeNigris 3/2/2015 15:10"
 	}
 }
