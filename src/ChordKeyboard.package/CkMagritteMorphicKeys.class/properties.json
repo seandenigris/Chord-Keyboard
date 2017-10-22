@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MAElementMorph",
+	"category" : "ChordKeyboard-Support",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CkMagritteMorphicKeys",
+	"type" : "normal"
+}

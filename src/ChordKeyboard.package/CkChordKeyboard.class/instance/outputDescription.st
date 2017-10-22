@@ -3,4 +3,4 @@ outputDescription
 
 	^ self hasValidCharacter
 		ifTrue: [ self character asString ]
-		ifFalse: [ '' ]
+		ifFalse: [ self customAction asString ]

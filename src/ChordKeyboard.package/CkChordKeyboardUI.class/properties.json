@@ -6,7 +6,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"keysPressedUI"
+		"keysPressedUI",
+		"outputDescriptionUI"
 	],
 	"name" : "CkChordKeyboardUI",
 	"type" : "normal"

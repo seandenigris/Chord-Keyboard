@@ -1,10 +1,10 @@
 magritte
-descriptionKeysPressed
+descriptionHardwareKeysPressed
 	<magritteDescription>
 	^ MANumberDescription new
 		accessor: #hardwareKeysPressed;
-		label: 'Keys Pressed';
-		priority: 130;
+		label: 'Hardware Keys Pressed';
+		priority: 300;
 		beRequired;
-		readonly;
+		beReadonly;
 		yourself
