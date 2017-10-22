@@ -1,4 +1,4 @@
 testing
 isEnabled
 
-	^ isEnabled ifNil: [ isEnabled := true ]
+	^ isEnabled ifNil: [ isEnabled := false ]
