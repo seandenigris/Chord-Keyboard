@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 character
 
 	^ Character alphabet at: self bits

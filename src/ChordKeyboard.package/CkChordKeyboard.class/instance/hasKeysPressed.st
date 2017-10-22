@@ -1,4 +1,4 @@
-as yet unclassified
+converting
 hasKeysPressed
 	
 	^ self keys anySatisfy: [ :e | e isPressed ]

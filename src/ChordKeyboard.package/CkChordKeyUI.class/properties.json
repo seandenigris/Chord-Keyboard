@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Morph",
+	"category" : "ChordKeyboard",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"key"
+	],
+	"name" : "CkChordKeyUI",
+	"type" : "normal"
+}

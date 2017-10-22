@@ -1,4 +1,4 @@
-as yet unclassified
+converting
 gtInspectorFloatIn: composite
 	<gtInspectorPresentationOrder: 0>
 	^ composite table

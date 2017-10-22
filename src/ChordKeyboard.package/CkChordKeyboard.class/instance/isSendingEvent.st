@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 isSendingEvent
 
 	^ self hasKeysPressed and: [ self keysPressed = 0 ]

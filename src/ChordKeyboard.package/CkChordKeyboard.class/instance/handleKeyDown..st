@@ -1,4 +1,4 @@
-as yet unclassified
+events-processing
 handleKeyDown: anEvent
 
 	self keysPressed: self keysPressed + 1.

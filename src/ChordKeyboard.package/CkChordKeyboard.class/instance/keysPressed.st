@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 keysPressed
 
 	^ keysPressed ifNil: [ keysPressed := 0 ]

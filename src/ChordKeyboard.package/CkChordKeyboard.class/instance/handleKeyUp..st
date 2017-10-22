@@ -1,4 +1,4 @@
-as yet unclassified
+events-processing
 handleKeyUp: anEvent
 
 	self keysPressed = 0 ifTrue: [ ^ self ].

@@ -1,4 +1,4 @@
 as yet unclassified
-inputCharacter
+stepTime
 
-	^ $f
+	^ 10

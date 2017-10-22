@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 keys
 
 	^ keys ifNil: [ keys := CkChordKey forKeyboard ]

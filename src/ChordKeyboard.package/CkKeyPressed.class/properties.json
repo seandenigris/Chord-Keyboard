@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Announcement",
+	"category" : "ChordKeyboard",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"isPressed"
+	],
+	"name" : "CkKeyPressed",
+	"type" : "normal"
+}

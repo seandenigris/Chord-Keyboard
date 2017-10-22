@@ -1,4 +1,4 @@
-as yet unclassified
+converting
 hasValidCharacter
 
 	^ self bits > Character alphabet size
