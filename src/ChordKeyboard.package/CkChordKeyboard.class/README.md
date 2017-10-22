@@ -1,0 +1,3 @@
+CkChordKeyboard uniqueInstance enable.
+CkChordKeyboard uniqueInstance disable.
+CkChordKeyboard reset.

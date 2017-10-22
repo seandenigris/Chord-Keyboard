@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "CkChordKey",
+	"category" : "ChordKeyboard",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CkHighChordKey",
+	"type" : "normal"
+}

@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "SeanDeNigris 3/6/2015 10:19",
+	"super" : "Object",
+	"category" : "ChordKeyboard",
+	"classinstvars" : [
+		"uniqueInstance"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"isEnabled",
+		"keysPressed",
+		"keys"
+	],
+	"name" : "CkChordKeyboard",
+	"type" : "normal"
+}
