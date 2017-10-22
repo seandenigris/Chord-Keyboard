@@ -1,4 +1,4 @@
-as yet unclassified
+events
 handleEvent: evt
 
 	self uniqueInstance handleEvent: evt

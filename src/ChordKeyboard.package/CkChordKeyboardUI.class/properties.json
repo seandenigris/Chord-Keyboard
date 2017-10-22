@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "SeanDeNigris 3/13/2015 21:05",
 	"super" : "Morph",
-	"category" : "ChordKeyboard",
+	"category" : "ChordKeyboard-UI",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

@@ -1,4 +1,4 @@
-as yet unclassified
+brick-interactable-actions
 press
 
 	Transcript show: 'Press ', self inputCharacter asString; cr.

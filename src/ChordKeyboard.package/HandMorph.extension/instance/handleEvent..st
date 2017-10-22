@@ -1,5 +1,7 @@
 *ChordKeyboard
 handleEvent: anEvent
+	"Override to intercept all keyboard events and, if the chord keyboard is enabled, steal the relevant events"
+
 	| evt  |
 	owner ifNil:[^self].
 	evt := anEvent.

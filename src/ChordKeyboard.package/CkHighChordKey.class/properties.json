@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "CkChordKey",
-	"category" : "ChordKeyboard",
+	"category" : "ChordKeyboard-Core-Support",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

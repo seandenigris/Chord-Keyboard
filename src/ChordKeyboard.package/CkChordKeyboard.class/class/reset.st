@@ -1,4 +1,4 @@
-as yet unclassified
+resetting
 reset
 
 	uniqueInstance := nil

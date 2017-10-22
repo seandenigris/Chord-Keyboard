@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 isPressed
 
 	^ isPressed ifNil: [ isPressed := false ]

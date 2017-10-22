@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "MAElementMorph",
-	"category" : "ChordKeyboard-Support",
+	"category" : "ChordKeyboard-UI-Support",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

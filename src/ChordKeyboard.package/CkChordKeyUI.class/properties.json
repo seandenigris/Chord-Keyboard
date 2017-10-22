@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "Morph",
-	"category" : "ChordKeyboard",
+	"category" : "ChordKeyboard-UI-Support",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

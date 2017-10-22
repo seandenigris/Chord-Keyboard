@@ -1,4 +1,4 @@
-as yet unclassified
+adding
 addBitsTo: anInteger
 
 	self isPressed ifFalse: [ ^ anInteger ].

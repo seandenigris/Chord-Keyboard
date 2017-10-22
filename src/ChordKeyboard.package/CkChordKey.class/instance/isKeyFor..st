@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 isKeyFor: aCharacter
 
 	^ self inputCharacter = aCharacter

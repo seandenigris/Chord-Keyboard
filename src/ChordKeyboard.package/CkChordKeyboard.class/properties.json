@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "SeanDeNigris 3/6/2015 11:08",
 	"super" : "Object",
-	"category" : "ChordKeyboard",
+	"category" : "ChordKeyboard-Core",
 	"classinstvars" : [
 		"uniqueInstance"
 	],
