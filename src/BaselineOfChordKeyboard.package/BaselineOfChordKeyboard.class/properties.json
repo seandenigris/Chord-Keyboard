@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "BaselineOf",
+	"category" : "BaselineOfChordKeyboard",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BaselineOfChordKeyboard",
+	"type" : "normal"
+}
