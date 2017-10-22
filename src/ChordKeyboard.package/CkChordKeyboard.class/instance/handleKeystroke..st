@@ -5,5 +5,5 @@ handleKeystroke: anEvent
 	key := self keys
 		detect: [ :e | e isKeyFor: anEvent keyCharacter ]
 		ifNone: [ ^ self ].
+	key press.
 	anEvent wasHandled: true.
-	key press

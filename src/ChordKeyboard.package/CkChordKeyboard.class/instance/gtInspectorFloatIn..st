@@ -1,4 +1,4 @@
-converting
+GT
 gtInspectorFloatIn: composite
 	<gtInspectorPresentationOrder: 0>
 	^ composite table
@@ -7,7 +7,7 @@ gtInspectorFloatIn: composite
 			{ 'keys' -> (self bits bitString last: 5).
 			'Enabled?' -> self isEnabled.
 			'Character' -> (self hasValidCharacter ifTrue: [ self character ] ifFalse: [ 'none' ]).
-			'Keys pressed' -> self keysPressed. } ];
+			'Keys pressed' -> self hardwareKeysPressed. } ];
 		column: 'Key' evaluated: #key;
 		column: 'Value' evaluated: #value;
 		send: #value

@@ -1,4 +1,4 @@
-converting
+testing
 hasValidCharacter
 
-	^ self bits > Character alphabet size
+	^ self bits between: 1 and: Character alphabet size

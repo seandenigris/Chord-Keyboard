@@ -4,12 +4,11 @@ initialize
 	super initialize.
 	self
 		changeTableLayout;
-		listDirection: #leftToRight;
+		listDirection: #topToBottom;
 		hResizing: #shrinkWrap;
-		cellInset: 3.
+		cellInset: 5.
 	self height: 200.
 	self color: Color veryLightGray.
-	self keyboard keys do: [ :key |
-		self addMorphBack: key asMorph ].
-	keysPressedUI := '' asMorph.
-	self addMorphBack: keysPressedUI
+	self
+		addKeys;
+		addToolbar

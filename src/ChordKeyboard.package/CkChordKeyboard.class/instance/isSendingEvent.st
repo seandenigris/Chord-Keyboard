@@ -1,4 +1,4 @@
-testing
+private-testing
 isSendingEvent
 
-	^ self hasKeysPressed and: [ self keysPressed = 0 ]
+	^ self hasKeysPressed and: [ self hardwareKeysPressed = 0 ]

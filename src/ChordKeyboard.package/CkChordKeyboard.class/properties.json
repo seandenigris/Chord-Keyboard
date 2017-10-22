@@ -9,8 +9,9 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"isEnabled",
-		"keysPressed",
-		"keys"
+		"keys",
+		"hardwareKeysPressed",
+		"specialValueMap"
 	],
 	"name" : "CkChordKeyboard",
 	"type" : "normal"

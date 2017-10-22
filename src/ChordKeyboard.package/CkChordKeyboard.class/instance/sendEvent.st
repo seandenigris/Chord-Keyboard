@@ -1,7 +1,6 @@
-converting
+events
 sendEvent
 
-	
-	self hasValidCharacter ifTrue: [ ^ self ].
-	Transcript cr.
-	ActiveHand simulateKeyStroke: self character
+	self hasValidCharacter
+		ifTrue: [ ActiveHand simulateKeyStroke: self character ]
+		ifFalse: [ self doCustom ].
