@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "MAContainerMorph",
-	"category" : "ChordKeyboard",
+	"super" : "MAElementMorph",
+	"category" : "ChordKeyboard-Support",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "CkTestCustomContainerMorph",
+	"name" : "CkMagritteMorphicKeys",
 	"type" : "normal"
 }
