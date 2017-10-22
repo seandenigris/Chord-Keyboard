@@ -8,14 +8,16 @@ Gofer it
 	load
 
 CkChordKeyboard uniqueInstance enable.
+
+## Help
 "These next two commented lines are to get you out of trouble:
 CkChordKeyboard uniqueInstance disable.
 CkChordKeyboard reset.
 "
 
+## Usage
 Smalltalk tools openWorkspace.
 
-## Usage
 Now use your chord keyboard to type in the workspace...
 Bit	Key
 5	a
