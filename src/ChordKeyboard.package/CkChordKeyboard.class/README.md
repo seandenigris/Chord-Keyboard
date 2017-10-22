@@ -8,6 +8,7 @@ Gofer it
 	load
 
 CkChordKeyboard uniqueInstance enable.
+CkChordKeyboard asMorphOpen.
 
 #Settings
 Right-handed users: The idea of the chord keyboard is that it should be used simultaneously with the mouse. Since I am left handed, the keyboard is set up so that I can type chords with my right hand while I use the mouse with the left. If you are right-handed, evaluate:
