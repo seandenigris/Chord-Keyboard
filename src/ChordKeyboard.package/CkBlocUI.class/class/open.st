@@ -7,6 +7,6 @@ open
 		extent: 274@250;
 		title: 'Chord Keyboard (Bloc)'
 		yourself.
-	space root addChild: self new keys.
+	space root addChild: self new container.
 	"BlElementSelection on: keys."
 	^ space show
