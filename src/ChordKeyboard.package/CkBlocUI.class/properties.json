@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "ChordKeyboard-UI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"keysPressedUI",
+		"outputDescriptionUI"
+	],
+	"name" : "CkBlocUI",
+	"type" : "normal"
+}
